@@ -1,0 +1,10 @@
+.contact-btn{
+    border: none;
+    padding: 10px 25px;
+    background: linear-gradient(0deg, #1fdeb0ff, #03a4f4ff);
+}
+
+.contact-input{
+    width: 50%;
+    box-shadow: 5px 5px 5px 8px rgba(155, 158, 157, 0.062);
+}
