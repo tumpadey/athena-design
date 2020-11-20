@@ -2,7 +2,7 @@ import React from 'react';
 
 const ContactUs = () => {
     return (
-        <section className="text-center contact container">
+        <section className="text-center contact container mt-5">
             <h1 className="font-weight-bold">Get your design right, right now</h1>
             <p>Be the first know our latest offers and updates!</p>
             <div class="input-group mb-3 p-2 rounded bg-white my-5 contact-input mx-auto">

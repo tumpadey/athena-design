@@ -4,7 +4,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 
 const Project = () => {
     return (
-        <div className="section">
+        <div className="section mt-5">
         <Container  className="my-2">
             <Row>
                 <Col md={6}>
