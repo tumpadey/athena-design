@@ -1,0 +1,11 @@
+.logo{
+    width: 125px;
+}
+.social-icon a img{
+    width: 20px;
+    margin: 20px 25px 5px 0;
+}
+.link-text a{
+    color: #626363;
+    font-size: 17px;
+}
