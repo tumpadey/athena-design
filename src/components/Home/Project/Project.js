@@ -1,10 +1,11 @@
 import React from 'react';
+import './project.css';
 import projectImg from '../../../images/20 [Converted]@2x.png';
 import { Col, Container, Row } from 'react-bootstrap';
 
 const Project = () => {
     return (
-        <div className="section mt-5">
+        <div className="section pt-5 project-bg">
         <Container  className="my-2">
             <Row>
                 <Col md={6}>

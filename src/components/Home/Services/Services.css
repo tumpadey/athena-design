@@ -2,6 +2,13 @@
     font-weight: 750;
 }
 
+.service-bg{
+    background-image: url("../../../images/service.6b70bdcc.png");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    
+}
 .service{
     padding: 20px;
 }
@@ -15,4 +22,10 @@
     border-bottom-right-radius: 70px;
     background-color: white;
     cursor: pointer;
+}
+.service-bg h1{
+    font-weight: 700;
+}
+.service-bg h4{
+    font-weight: 600;
 }

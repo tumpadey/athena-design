@@ -3,8 +3,9 @@ import './ContactUs.css';
 
 const ContactUs = () => {
     return (
-        <section className="text-center contact container mt-5">
-            <h1 className="font-weight-bold">Get your design right, right now</h1>
+        <section className=" contact-bg pt-5">
+           <div className="text-center contact container">
+           <h1 className="font-weight-bold">Get your design right, right now</h1>
             <p>Be the first know our latest offers and updates!</p>
             <div class="input-group d-flex align-items-center contact-input mb-3 p-2 rounded bg-white my-5 contact-input mx-auto">
             <input type="text" class="form-control border-0" placeholder="Enter your email address"/>
@@ -12,6 +13,7 @@ const ContactUs = () => {
                     <button class="contact-btn" type="button">Get Started</button>
                 </div>
             </div>
+           </div>
         </section>
     );
 };

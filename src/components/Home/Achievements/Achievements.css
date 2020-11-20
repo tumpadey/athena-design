@@ -1,3 +1,10 @@
+.achievement-bg{
+    background-image: url("../../../images/achivement.48608280.png");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    
+}
 .gap{
     color: gray;
     font-weight: 700;

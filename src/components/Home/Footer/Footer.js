@@ -8,8 +8,9 @@ import dribble from '../../../images/dribbble (1)@2x.png';
 
 const Footer = () => {
     return (
-        <footer className="container pt-5">
-        <div className="row d-flex ">
+        <footer className="footer-bg pt-5 ">
+        <div className="container">
+        <div className="row d-flex p-5">
             <div className="col-md-5 text-center text-sm-left">
                 <img className="logo" src={logo} alt=""/>
                 <div className="mt-3 social-icon">
@@ -46,6 +47,7 @@ const Footer = () => {
                     <a href="">Login</a>
                 </div>
             </div>
+        </div>
         </div>
     </footer>
     );

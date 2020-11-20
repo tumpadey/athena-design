@@ -1,0 +1,47 @@
+.package-bg{
+    background-image: url("../../../images/package1.1185c26e.png");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    
+}
+.package{
+    border: 1px solid white;
+    box-shadow: 3px 3px 10px lightgrey;
+    padding: 10px;
+    line-height: 20px;
+    height: 450px;
+    width: 300px;
+    text-align: center;
+}
+.package h1{
+    font-weight: 700;
+}
+.display{
+    display: none;
+    
+}
+
+.package:hover .display{
+    text-align:center;
+    display: block;
+    margin-left: 60px;
+}
+.package:hover .borders{
+    text-align:center;
+    display: none;
+}
+.package:hover{
+    cursor: pointer;
+    border: 3px solid #1fdeb0ff;
+}
+.package p{
+    font-weight: 700;
+}
+
+.borders{
+    width: 180px;
+    height: 1px;
+    background-color: #1bebe4;
+    margin: 15px auto;
+}

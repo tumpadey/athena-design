@@ -1,0 +1,11 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+  
+  }
+.header-bg{
+    background-image: url("../../../images/header.952f7021.png");
+    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat:no-repeat;
+    
+}

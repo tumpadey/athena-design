@@ -8,7 +8,8 @@ import servicephoto3 from '../../../images/Group 72@2x.png';
 
 const Services = () => {
     return (
-        <div className='container mt-5'>
+       <div className="service-bg">
+            <div className='container pt-5 '>
             <h1>What we do</h1>
             <small className='text-muted'>Our main focus is to make the user experience very <br/> simple and easy. Simplicity is our strength.</small>
             <div className="row text-center mt-5 ">
@@ -34,6 +35,7 @@ const Services = () => {
             </div>
             </div>
         </div>
+       </div>
     );
 };
 

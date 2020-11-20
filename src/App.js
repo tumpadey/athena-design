@@ -7,7 +7,7 @@ import Footer from './components/Home/Footer/Footer';
 import Header from './components/Home/Header/Header';
 import Project from './components/Home/Project/Project';
 import Services from './components/Home/Services/Services';
-import Packages from './components/Packages/Packages';
+import Packages from './components/Home/Packages/Packages';
 
 function App() {
   return (
